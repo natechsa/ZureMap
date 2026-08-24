@@ -28,7 +28,7 @@
     "@angular/platform-browser": "^20.3.27",
     "@angular/platform-browser-dynamic": "^20.3.27",
     "@angular/router": "^20.3.27",
-    "@azure/msal-browser": "^5.18.0",
+    "@azure/msal-browser": "^5.19.0",
     "@fortawesome/angular-fontawesome": "^3.0.0",
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
